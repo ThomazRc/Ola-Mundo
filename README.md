@@ -6,6 +6,10 @@
  **Teste**
  *Código*
  ~~Código~~
+ ```
+ Console.WriteLine("Curso em Video!");
+ 
+ ```
  
  Num | Nome | Nota
  ---|---|---
